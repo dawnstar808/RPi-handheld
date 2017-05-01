@@ -50,3 +50,6 @@ https://www.3djake.uk/
 1 x 5 inch lvds lcd panel resistive touch screen water proof
   https://www.alibaba.com/product-detail/5-inch-lvds-lcd-panel-resistive_60547930337.html?s=p
 
+![alt text][pinkcase]
+
+[pinkcase] https://github.com/dawnstar808/RPi-handheld/blob/master/kfs_case_pink.png
