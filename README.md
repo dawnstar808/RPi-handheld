@@ -1,3 +1,5 @@
+https://github.com/dawnstar808/RPi-handheld/kfs_case_green.png
+
 Documentation
 -------------
 README.md  
