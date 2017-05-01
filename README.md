@@ -1,3 +1,5 @@
+This project is work under progress and has not been tested.  If you make this project please send e-mail to dawn.singleton808@gmail.com to let me know :)
+
 ![alt text][greencase]
 
 [greencase]: https://github.com/dawnstar808/RPi-handheld/blob/master/kfs_case_green.png
