@@ -52,4 +52,4 @@ https://www.3djake.uk/
 
 ![alt text][pinkcase]
 
-[pinkcase] https://github.com/dawnstar808/RPi-handheld/blob/master/kfs_case_pink.png
+[pinkcase]: https://github.com/dawnstar808/RPi-handheld/blob/master/kfs_case_pink.png
