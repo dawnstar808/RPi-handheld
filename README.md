@@ -1,4 +1,6 @@
-https://github.com/dawnstar808/RPi-handheld/blob/master/kfs_case_green.png
+![alt text][greencase]
+
+[greencase]: https://github.com/dawnstar808/RPi-handheld/blob/master/kfs_case_green.png
 
 Documentation
 -------------
